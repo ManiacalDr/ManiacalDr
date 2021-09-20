@@ -2,6 +2,7 @@
   
   Contact:
   Email - wattsga676@gmail.com
+  <br />
   LinkedIn - linkedin.com/in/gregory-watts-6188921b9
 
 <!---
